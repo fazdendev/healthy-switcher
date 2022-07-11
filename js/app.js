@@ -94,8 +94,6 @@
             if (!e.target.closest(".header")) e.preventDefault();
         }
     }
-    window["FLS"] = true;
-    isWebp();
     new Swiper(".swiper", {
         direction: "horizontal",
         loop: true,
@@ -110,9 +108,9 @@
                 slidesPerView: 2,
                 spaceBetween: 34
             }
-        },
-        autoplay: {
-            delay: 4e3
         }
     });
+    AOS.init();
+    window["FLS"] = true;
+    isWebp();
 })();

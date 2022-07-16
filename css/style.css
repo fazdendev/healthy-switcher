@@ -470,6 +470,7 @@ body {
   -webkit-transition: width 0.7s;
   -o-transition: width 0.7s;
   transition: width 0.7s;
+  z-index: 2;
 }
 
 section:hover .titles:after {
@@ -2236,6 +2237,12 @@ section:hover .titles:after {
   background-color: #252525;
   border-radius: 6px;
   height: 100%;
+  overflow: hidden;
+  min-width: 250px;
+}
+
+.card-follow-us_photo {
+  height: auto;
 }
 
 .card-follow-us__social-net-card {
@@ -2732,11 +2739,6 @@ section:hover .titles:after {
     }
 }
 
-  .chefs-recipes__titles {
-    white-space: normal;
-    padding: 14px 30px 20px 30px;
-  }
-
 @supports (margin-bottom: clamp( 1.875rem , 1.1432926829rem  +  3.6585365854vw , 3.75rem )) {
     .chefs__titles:not(:last-child) {
       margin-bottom: clamp( 1.875rem , 1.1432926829rem  +  3.6585365854vw , 3.75rem );
@@ -3162,6 +3164,10 @@ section:hover .titles:after {
 @media (max-width: 17.4375em) {
   .logo__text {
     font-size: 0.9375rem;
+    text-align: start;
+    width: -webkit-min-content;
+    width: -moz-min-content;
+    width: min-content;
   }
 
   .main-title {

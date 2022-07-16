@@ -14,18 +14,18 @@ HEALTHY-SWITCHER это работа номер один в моем портф�
 
 ## Технологии
 
--HTML
--CSS
--Java Script
--Flex Layout
--Grid Layout
--Сжатие кода
--БЭМ
--Swiper
--AOS
--Rem и Em для шрифтов
--CSS animations
--Picture WEBP
--Woff2 Fonts
+- HTML
+- CSS
+- Java Script
+- Flex Layout
+- Grid Layout
+- Сжатие кода
+- БЭМ
+- Swiper
+- AOS
+- Rem и Em для шрифтов
+- CSS animations
+- Picture WEBP
+- Woff2 Fonts
 
 Ссылка на сайт https://fazdendev.github.io/healthy-swithcher/

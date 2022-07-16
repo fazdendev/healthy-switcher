@@ -34,7 +34,6 @@
             if (headerHeight && headerBc) if (scrollTop < clientHeight) if (scrollTop > 2 * headerHeight) {
                 let opacity = Math.min(scrollTop / 2 / headerHeight, .8);
                 headerBc.style.opacity = `${opacity}`;
-                console.log(opacity);
             } else {
                 let opacity = Math.min(scrollTop / 2 / headerHeight, .8);
                 headerBc.style.opacity = `${opacity}`;

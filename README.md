@@ -25,12 +25,11 @@ HEALTHY-SWITCHER это работа номер один в моем портф�
 - Grid Layout
 - Сжатие кода
 - БЭМ
-- Слайдер Swiper
-- AOS
 - Rem и Em для шрифтов
 - CSS animations
 - Picture WEBP
 - Woff2 Fonts
-
+- Слайдер Swiper
+- AOS
 
 Ссылка на сайт https://fazdendev.github.io/healthy-swithcher/

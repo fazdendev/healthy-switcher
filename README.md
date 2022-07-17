@@ -1,4 +1,4 @@
-https://fazdendev.github.io/healthy-switcher/# Landing-page HEALTHY-SWITCHER
+# Landing-page HEALTHY-SWITCHER
 
 ## Описание
 

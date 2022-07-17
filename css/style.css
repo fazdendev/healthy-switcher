@@ -1173,7 +1173,7 @@ section:hover .titles:after {
 .home-page__health-food-basics {
   position: relative;
   z-index: 2;
-  margin-top: clamp(-280px, -10vw, -140px);
+  margin-top: -290px;
   margin-bottom: 60px;
 }
 
@@ -2626,6 +2626,24 @@ section:hover .titles:after {
   }
 }
 
+@media (max-width: 118.75em) {
+  .home-page__health-food-basics {
+    margin-top: -200px;
+  }
+}
+
+@media (max-width: 69.375em) {
+  .home-page__health-food-basics {
+    margin-top: -170px;
+  }
+}
+
+@media (max-width: 62.4375em) {
+  .home-page__health-food-basics {
+    margin-top: -120px;
+  }
+}
+
 @media (max-width: 61.9375em) {
   .title {
     line-height: 200%;
@@ -2933,7 +2951,7 @@ section:hover .titles:after {
   }
 
   .home-page__health-food-basics {
-    margin-top: -15vw;
+    margin-top: -10vw;
   }
 
 @supports (margin-bottom: clamp( 1.5625rem , -0.0034955257rem  +  7.8299776286vw , 3.75rem )) {

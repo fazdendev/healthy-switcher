@@ -1,4 +1,4 @@
-# Landing-page HEALTHY-SWITCHER
+https://fazdendev.github.io/healthy-switcher/# Landing-page HEALTHY-SWITCHER
 
 ## Описание
 
@@ -32,4 +32,4 @@ HEALTHY-SWITCHER это работа номер один в моем портф�
 - Слайдер Swiper
 - AOS
 
-Ссылка на сайт https://fazdendev.github.io/healthy-swithcher/
+Ссылка на сайт https://fazdendev.github.io/healthy-switcher/
